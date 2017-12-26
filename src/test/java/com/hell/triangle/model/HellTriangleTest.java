@@ -1,11 +1,9 @@
-package br.com.pasquantonio.vinicius.hell.triangle.model;
+package com.hell.triangle.model;
 
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
 import com.hell.triangle.exception.TriangleException;
-import com.hell.triangle.model.HellTriangle;
 
 
 public class HellTriangleTest {

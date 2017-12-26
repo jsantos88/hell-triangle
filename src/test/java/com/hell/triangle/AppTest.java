@@ -1,4 +1,4 @@
-package br.com.pasquantonio.vinicius.hell.triangle;
+package com.hell.triangle;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
