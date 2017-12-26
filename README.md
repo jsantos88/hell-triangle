@@ -10,7 +10,7 @@ Getting Started
 
 ```
 git clone https://github.com/jsantos88/hell-triangle.git
-cd resize-photo
+cd hell-triangle
 mvn clean package
 
 mvn clean install
